@@ -1,0 +1,29 @@
+body{
+text-align: center;
+}
+#coding{
+height: 300px;
+width: 300px;
+border-radius: 50%;
+}
+#sec2{
+font-size: 25px;
+ background-color: pink;
+}
+#sec1{
+background-color: aqua;
+}
+.menu{
+list-style: none;
+cursor: grabbing;
+}
+.link1{
+float:right;
+padding-top: 5px;
+padding-bottom: 5px;
+padding-right: 9px;
+padding-left: 9px;
+}
+.link:hover{
+background-color: blue;
+}
